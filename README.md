@@ -3,8 +3,15 @@
 
 Highly customized radial menu for flutter
 
-## How to use
+## Desktop
 
+<img src="https://github.com/RicardoRB/custom_radial_menu/master/screenshots/capture1.png"/>
+
+## Mobile
+
+<img src="https://github.com/RicardoRB/custom_radial_menu/master/screenshots/capture2.png"/>
+
+## How to use
 
 ```dart
 import 'package:custom_radial_menu/custom_radial_menu.dart';
