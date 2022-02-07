@@ -5,11 +5,11 @@ Highly customized radial menu for flutter
 
 ## Desktop
 
-<img src="https://github.com/RicardoRB/custom_radial_menu/master/screenshots/capture1.png"/>
+<img src="https://github.com/RicardoRB/custom_radial_menu/blob/main/screenshots/capture1.png"/>
 
 ## Mobile
 
-<img src="https://github.com/RicardoRB/custom_radial_menu/master/screenshots/capture2.png"/>
+<img src="https://github.com/RicardoRB/custom_radial_menu/blob/main/screenshots/capture2.png"/>
 
 ## How to use
 
