@@ -1,10 +1,10 @@
 name: custom_radial_menu
-description: Highly customized radial menu for flutter
+description: Highly customized radial menu. Fully customizable and easy to implement.
 version: 1.0.0
 homepage: https://github.com/RicardoRB/custom_radial_menu
 
 environment:
-  sdk: ">=2.16.0 <3.0.0"
+  sdk: ">=2.15.1 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
