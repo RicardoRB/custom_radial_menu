@@ -2,7 +2,7 @@ library custom_radial_menu;
 
 import 'dart:math' as math;
 
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 /// A widget that create a radial menu with the given children.
 class CustomRadialMenu extends StatelessWidget {
